@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- 图片资源（预留） -->
+        <!-- <file>images/dice.png</file> -->
+        <!-- <file>images/board.png</file> -->
+        <!-- <file>images/player.png</file> -->
+    </qresource>
+</RCC>
